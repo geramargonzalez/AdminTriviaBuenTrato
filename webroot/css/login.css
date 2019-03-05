@@ -1,0 +1,30 @@
+html {
+    background-color: #CCC;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.login-page {
+    background: unset;
+}
+
+.img-circle {
+    margin: 0px auto;
+    width: 200px;
+    height: 200px;
+}
+
+.img-circle-o {
+    margin: 0px auto;
+    width: 200px;
+    height: 200px;
+    padding: 3px;
+}
+
+@media (min-width: 600px) {
+    .register-box {
+        width: 40em;
+    }
+}
